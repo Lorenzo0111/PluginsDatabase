@@ -1,0 +1,7 @@
+# Automatically downloaded and updated from https://github.com/Lorenzo0111/PluginsDatabase/blob/master/Farms/loots.yml
+# File version: 1.0
+# Format: MIN-MAX:XMATERIAL
+
+cow:
+  - "1-3:BEEF"
+  - "0-2:LEATHER"
